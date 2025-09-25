@@ -102,8 +102,8 @@ Follow the steps below to reproduce the analysis and dashboard:
 * Distribution plots
 
 ### Screenshots
-<img width="774" height="437" alt="image" src="https://github.com/user-attachments/assets/c747032d-cb76-4c68-9a6b-7381b230826b" />
-<img width="787" height="448" alt="image" src="https://github.com/user-attachments/assets/f8725936-4548-493b-9db2-6dc8a39da0ff" />
+<img width="1548" height="874" alt="image" src="https://github.com/user-attachments/assets/fcb555aa-335f-493b-a1bc-7715e307db5e" />
+<img width="1574" height="896" alt="image" src="https://github.com/user-attachments/assets/6569ffc2-8154-4271-8c0b-6654b541da8e" />
 
 ### Future Work
 * Add more advanced machine learning models
