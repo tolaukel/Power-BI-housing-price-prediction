@@ -80,9 +80,6 @@ Model uncertainty higher for luxury homes (>10M) → suggests need for expert ap
     * Incremental effect of bedrooms alone is misleading.
     * Investors should focus on total property size rather than bedroom count in isolation.
 
-5. How to Reproduce
-
-Follow the steps below to reproduce the analysis and dashboard:
 
 ### Requirements
 
@@ -90,7 +87,7 @@ Follow the steps below to reproduce the analysis and dashboard:
 * R (≥ 4.0.0) installed locally
 * R libraries: install.packages(c("dplyr", "ggplot2", "car", "stats"))
 
-### Steps
+### Steps on How to Reproduce
 * Open the .pbix file in Power BI Desktop.
 * Connect the dataset (CSV/Excel file provided in the repo).
 * Ensure R is enabled in Power BI (File > Options > R scripting).
